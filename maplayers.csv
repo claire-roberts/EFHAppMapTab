@@ -1,8 +1,8 @@
 species,lifestage,URL
-BLACKGROUER,adult,
-BLACKGROUER,earlyJuvenile,
-BLACKGROUER,lateJuvenile,
-BLACKGROUER,spawningAdult,
+BLACKGROUER,adult,https://api.mapbox.com/styles/v1/claireroberts/cixuhtoo1002t2rnrcn7gtc2t/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BLACKGROUER,earlyJuvenile,https://api.mapbox.com/styles/v1/claireroberts/cixue8eow002p2rnrcz19b2go/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BLACKGROUER,lateJuvenile,https://api.mapbox.com/styles/v1/claireroberts/cixuej7uv00272rlavr8qu3cj/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BLACKGROUER,spawningAdult,https://api.mapbox.com/styles/v1/claireroberts/cixueovne00282rlau3ucgi2y/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
 BLACKFINSNAPPER,adult,
 BLACKFINSNAPPER,earlyJuvenile,
 BLACKFINSNAPPER,lateJuvenile,
