@@ -7,12 +7,14 @@ BLACKFINSNAPPER,adult,https://api.mapbox.com/styles/v1/claireroberts/cixvv3xeh00
 BLACKFINSNAPPER,earlyJuvenile,https://api.mapbox.com/styles/v1/claireroberts/cixvv584j00092rr0n2pltckb/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
 BLACKFINSNAPPER,lateJuvenile,https://api.mapbox.com/styles/v1/claireroberts/cixvv6944000a2rr02ll92mog/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
 BLACKFINSNAPPER,spawningAdult,https://api.mapbox.com/styles/v1/claireroberts/cixvv25ld00052sp6zmwzzije/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
-BROWNSHRIMP,fertilizedEggs,
-BROWNSHRIMP,latePostlarvaeJuveniles,
-BROWNSHRIMP,nonSpawningAdults,
-BROWNSHRIMP,spawningAdults,
-BROWNSHRIMP,subAdults,
-COBIA,adults,
+BLUELINETILEFISH,adult,https://api.mapbox.com/styles/v1/claireroberts/cixvyqrtm000m2soz3at5mtsi/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BLUELINETILEFISH,spawningAdult,https://api.mapbox.com/styles/v1/claireroberts/cixvyr7th000d2sp60l24qwse/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BROWNSHRIMP,fertilizedEggs,https://api.mapbox.com/styles/v1/claireroberts/cixw2fmo1000p2rqjl5mz0ysz/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BROWNSHRIMP,latePostlarvaeJuveniles,https://api.mapbox.com/styles/v1/claireroberts/cixw2agwq000t2sp6xcscej35/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BROWNSHRIMP,nonSpawningAdults,https://api.mapbox.com/styles/v1/claireroberts/cixw2795f000p2rr0uwf6z8ja/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BROWNSHRIMP,spawningAdults,https://api.mapbox.com/styles/v1/claireroberts/cixw23wd4000t2rmhw2nvi2d4/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+BROWNSHRIMP,subAdults,https://api.mapbox.com/styles/v1/claireroberts/cixw20kuy000r2rmh844p4jg9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
+COBIA,adults,https://api.mapbox.com/styles/v1/claireroberts/cixw3rmgs000z2rmhmbv6g180/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig
 CUBERASNAPPER,adults,
 CUBERASNAPPER,earlyJuveniles,
 CUBERASNAPPER,lateJuveniles,
@@ -115,3 +117,5 @@ YELLOWMOUTHGROUPER,lateJuveniles,
 YELLOWTAILSNAPPER,adults,
 YELLOWTAILSNAPPER,earlyJuveniles,
 YELLOWTAILSNAPPER,lateJuveniles,
+,,
+TRIAL,https://api.mapbox.com/styles/v1/claireroberts/cixvz4olb000i2rmhsl965ssq/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2xhaXJlcm9iZXJ0cyIsImEiOiJjaWtqdTFyZ3UwOGw2dnRrbTlibDd2OW9yIn0.ccw4vPRr3LiUpAcqyThNig,
